@@ -13,3 +13,4 @@ func main() {
 
 // コマンドでドキュメントのパッケージにアクセスする
 // go doc fmt.Println
+
